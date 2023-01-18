@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
 
 <h1 align="center">Hi 👋, I'm Mevra Dilan Erten Özbunar</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=4100&pause=700&color=000000&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+Page;I+am+a+Back-End+Software+Developer"/></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=4100&pause=700&color=000000&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+Page;I+am+a+Software+Developer"/></a></h3>
 <p align="center"><img src="https://camo.githubusercontent.com/a034f9ccd09e1d5f09cae408937e035d33fb1c616361f53a39bd050ab68d1b67/68747470733a2f2f6d656469612e74656e6f722e636f6d2f53353962506b543070716341414141432f70726f6772616d6d696e672e676966" alt="Coding"></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mevradilanozbunar&label=Profile%20views&color=0e75b6&style=flat" alt="mevradilanozbunar" /> </p>
 
