@@ -17,6 +17,4 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mevradilanozbunar&show_icons=true&locale=en&layout=compact" alt="mevradilanozbunar" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mevradilanozbunar&show_icons=true&locale=en" alt="mevradilanozbunar" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mevradilanozbunar&" alt="mevradilanozbunar" /></p>
-<!--START_SECTION:waka-->
-<p align="center"><img src="https://wakatime.com/share/@fa4e06af-50ae-4621-8438-cfb06dfb37eb/1c1762a0-e75f-4c11-bf08-714b401b2912.svg" alt="Coding" height="500" width="500" ><img src="https://wakatime.com/share/@fa4e06af-50ae-4621-8438-cfb06dfb37eb/db8a7d63-5a6a-40e3-9d70-5bda53fbe06e.svg" alt="Coding" height="500" width="500" ></p>
-<!--END_SECTION:waka-->
+
