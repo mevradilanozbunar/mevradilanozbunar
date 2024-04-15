@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Web Developer</h3>
 
 <div align="center">
-# 💫 About Me:
+
 🔭 I’m currently working on ERKUT-SAVUNMA
 
 
